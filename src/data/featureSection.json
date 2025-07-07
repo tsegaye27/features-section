@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "backgroundColor": "bg-[#B0B0A0]",
+    "graphicFilename": "1.webp",
+    "graphicAlt": "Four circles graphic",
+    "title": "THE FASTEST, MOST ACCURATE CHART DATA",
+    "description": "Everything required to quickly populate accurate and comprehensive pricing charts."
+  },
+  {
+    "id": 2,
+    "backgroundColor": "bg-[#DFF757]",
+    "graphicFilename": "2.webp",
+    "graphicAlt": "Nine squares graphic",
+    "title": "REAL-TIME & HISTORICAL USD PRICING DATA",
+    "description": "Get the exact value of every real-time or historical on-chain transaction."
+  },
+  {
+    "id": 3,
+    "backgroundColor": "bg-[#F8F8F8]",
+    "graphicFilename": "3.webp",
+    "graphicAlt": "Nested squares graphic",
+    "title": "INSTANT, REAL-TIME AGGREGATE DATA",
+    "description": "Volume, liquidity, unique wallets, and more available instantly for multiple timeframes."
+  }
+]
