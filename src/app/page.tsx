@@ -1,4 +1,4 @@
-import { FeatureSection } from "@/components/FeatureSection"; // Adjust path if needed
+import { FeatureSection } from "@/components/FeatureSection";
 
 export default function Home() {
   return (
