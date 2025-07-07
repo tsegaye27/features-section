@@ -14,7 +14,7 @@ export const FeatureSection: React.FC = () => {
 
   return (
     <section className="bg-black py-16 px-4 md:px-8 lg:px-16 min-h-screen flex flex-col items-center justify-center">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-6xl">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-[90rem]">
         {featureData.map((item) => (
           <FeatureCard
             key={item.id}
